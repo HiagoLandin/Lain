@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Present day, present time...</title>
+    <link rel="stylesheet" href="laistyle.css">
+    <style>
+         audio::-webkit-media-controls-start-playback-button {
+            display: none;
+        }
+        
+    </style>
+</head>
+
+<body>
+    <div class="batatinha">
+        <audio id="audioPlayer" autoplay>
+            <source src="C:\Users\fake2\Downloads\SnapInsta.io - Kavinsky - Nightcall (Instrumental Synth Remake) (128 kbps).mp3" type="audio/mpeg">
+
+        </audio>
+        <video autoplay loop muted plays-inline class="computadoreshumanoides">
+
+            <source src="C:\Users\fake2\Downloads\PURPLE TV GLITCH VHS EFFECT FREE FOOTAGE.mp4" type="video/mp4">
+        </video>
+
+        <nav>
+            <img src="C:\Users\fake2\Downloads\a3b03fdb57d5138c146d38190d8a7e54-pZrH1SMmj.png" class="logo">
+            <ul>
+                <li><a href="https://www.passofundo.ideau.com.br/">lets</a></li>
+                <li><a href="https://www.passofundo.ideau.com.br/">all</a></li>
+                <li><a href="https://www.passofundo.ideau.com.br/">love</a></li>
+                <li><a href="https://www.passofundo.ideau.com.br/">lain</a></li>
+            </ul>
+        </nav>
+        <div class="content1010">
+            <h1>No matter where you go, everyone's connected.</h1>
+            <a href="https://fauux.neocities.org/Love">Why? Why did you die?</a>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+
+
+</html>
